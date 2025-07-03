@@ -33,12 +33,14 @@ python bank_account.py
 ```
 
 ## 💡 Sample Output:
+
 irfan
 250
 Balance Money: 1000
 Balance Money: 500
 
-## 🚀Author
+## 🚀 Author
+
 Mohammed Irfan Ali M. N.
 B.Tech (ECE), Siddharth Institute of Engineering and Technology
 NPTEL Python certified | CGPA: 9.55
