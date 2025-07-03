@@ -37,7 +37,7 @@ irfan
 250
 Balance Money: 1000
 Balance Money: 500
-----
+
 ## 🚀Author
 Mohammed Irfan Ali M. N.
 B.Tech (ECE), Siddharth Institute of Engineering and Technology
