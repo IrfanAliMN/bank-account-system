@@ -8,7 +8,7 @@ class BankAccount:
   def withdraw(self, amount):
     self.balance-=amount
   def check_balance(self):
-    print('Balance Money'+ self.balance)
+    print('Balance Money: ', self.balance)
 
 
 b1= BankAccount('irfan',250)
@@ -18,4 +18,4 @@ print(b1.balance)
 b1.deposit(750)
 b1.check_balance()
 b1.withdraw(500)
-b1.check_balance
+b1.check_balance()
